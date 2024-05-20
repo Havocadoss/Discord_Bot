@@ -1,0 +1,2 @@
+I will make a bot that gets mad the more you repeat the same response.
+Revised proposal: Did not like the idea of the bot getting mad the more the user repeats their message, because we already have the Gordo bot. So, I will make a bot that tells you the current time in PST (Pacific Standard Time), EST (Eastern Standard Time), and UTC (Coordinated Universal Time).
